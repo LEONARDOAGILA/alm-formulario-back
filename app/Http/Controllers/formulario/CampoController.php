@@ -34,6 +34,8 @@ class CampoController extends Controller
             'edit'
         ]]);
     }
+
+    
     public function store()
     {
         try {
